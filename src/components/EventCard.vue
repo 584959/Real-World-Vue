@@ -1,7 +1,6 @@
 <script setup lang="ts">
 
 defineProps<{
-  // event: Object,
   event: {
     id: string,
     title: string,
